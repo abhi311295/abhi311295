@@ -6,6 +6,11 @@ I am a Data Science enthusiast, with skills in Machine Learning. I have worked o
 - 💞️ I’m looking to collaborate on kaggle competitions
 - 📫 How to reach me [linkedin](https://www.linkedin.com/in/abhishek-mistry-0351081b1/)
 
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://https://github.com/abhi311295)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://https://www.linkedin.com/in/abhishek-mistry-0351081b1///)  
+
 <!---
 abhi311295/abhi311295 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

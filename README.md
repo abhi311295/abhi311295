@@ -8,6 +8,8 @@ I am a Data Science enthusiast, with skills in Machine Learning. I have worked o
 
 
 
+## 🛠 Skills
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abhi311295)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abhishek-mistry-0351081b1///)  

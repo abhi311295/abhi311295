@@ -9,6 +9,12 @@ I am a Data Science enthusiast, with skills in Machine Learning. I have worked o
 
 
 ## 🛠 Skills
+- Machine learniing 
+-  SKlearn 
+- Pandas
+- Numpy
+- Matplotlib
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abhi311295)

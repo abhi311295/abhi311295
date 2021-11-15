@@ -2,8 +2,8 @@ I am a Data Science enthusiast, with skills in `Machine Learning`. I have worked
 
 - 👋 Hi, I’m abhishek Mistry
 - 👀 I’m interested in machine learning 
-- 🌱 I’m currently learning machine learning 
-- 💞️ I’m looking to collaborate on kaggle competitions
+- 🌱 I’m currently learning Deep Learning and NLP. 
+- 💞️ I’m looking to collaborate on kaggle competitions and some projects on Recomendation system.
 - 📫 How to reach me [linkedin](https://www.linkedin.com/in/abhishek-mistry-0351081b1/)
 
 

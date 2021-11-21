@@ -6,7 +6,7 @@ I am a Data Science enthusiast, with skills in `Machine Learning`. I have worked
 - 💞️ I’m looking to collaborate on kaggle competitions and some projects on Recomendation system.
 - 📫 How to reach me [linkedin](https://www.linkedin.com/in/abhishek-mistry-0351081b1/) [Medium](https://medium.com/@abhimistry311295)
 
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 ## 🛠 Skills
 - Machine learniing 

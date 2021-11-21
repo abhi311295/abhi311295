@@ -4,7 +4,7 @@ I am a Data Science enthusiast, with skills in `Machine Learning`. I have worked
 - 👀 I’m interested in machine learning 
 - 🌱 I’m currently learning Deep Learning and NLP. 
 - 💞️ I’m looking to collaborate on kaggle competitions and some projects on Recomendation system.
-- 📫 How to reach me [linkedin](https://www.linkedin.com/in/abhishek-mistry-0351081b1/)
+- 📫 How to reach me [linkedin](https://www.linkedin.com/in/abhishek-mistry-0351081b1/) [Medium](https://medium.com/@abhimistry311295)
 
 
 
@@ -18,6 +18,7 @@ I am a Data Science enthusiast, with skills in `Machine Learning`. I have worked
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abhi311295)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Medium" height="40" >](https://medium.com/@abhimistry311295) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abhishek-mistry-0351081b1///)  
 
 <!---

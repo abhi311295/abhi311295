@@ -23,6 +23,7 @@ I am a Data Science enthusiast, with skills in `Machine Learning`. I have worked
 - Pandas
 - Numpy
 - Matplotlib
+- Power BI
 
 
 

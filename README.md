@@ -1,4 +1,4 @@
-I am a Data Science enthusiast, with skills in `Machine Learning`. I have worked on frameworks such as `Scikit-learn`, and `XGBoost`. I've created several End to End projects with machine learning.I also have strong programming abilities in Python, as well as a solid understanding of data structures and algorithms.
+I am a Data Science enthusiast, with skills in `Machine Learning`. I have worked on frameworks such as `Scikit-learn`, and `XGBoost`. I've created several End to End projects with machine learning.I also have strong programming abilities in Python, as well as a solid understanding algorithms.
 
 - 👋 Hi, I’m abhishek Mistry
 - 👀 I’m interested in machine learning 

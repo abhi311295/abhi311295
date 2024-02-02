@@ -18,15 +18,11 @@ I am a Data Science enthusiast, with skills in `Machine Learning`. I have worked
    </p>--->
    
 ## 🛠 Skills
-- Python
+- Python / SQL
 - Machine learniing 
-- SKlearn 
-- Pandas
-- Numpy
-- Matplotlib
-- Power BI
-- DOMO
-- SQL
+- Pandas / Numpy / Matplotlib / SKlearn
+- DOMO / Tableau / Power BI
+- Alteryx
 
 
 
